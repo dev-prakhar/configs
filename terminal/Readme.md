@@ -14,6 +14,7 @@ This directory includes the steps to setup your terminal from scratch
 ### Installation
 
 * Download [iterm2 for mac](https://www.iterm2.com/downloads.html)
+* Download [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 * Run the script `./startup.sh`
 * Download [material-design-iterm-colors](https://github.com/MartinSeeler/iterm2-material-design#how-to-use-it)
 * Navigate to _Preferences_ > _Appearance_
